@@ -1,1 +1,1 @@
-***Just learning rust
+Just learning rust
